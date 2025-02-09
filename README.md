@@ -1,6 +1,6 @@
 # Frontend - Aplicacao React
 
-Este repositório contém o frontend da aplicação, desenvolvido em React.
+Este é o frontend de uma aplicação CRUD desenvolvida em **React**, que consome uma API PHP para gerenciamento de **usuários e produtos**. A aplicação inclui um sistema de **login com JWT**, garantindo acesso autenticado às funcionalidades protegidas.
 
 ## 📌 **Pré-requisitos**
 
