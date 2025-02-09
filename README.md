@@ -47,21 +47,7 @@ npm start
 yarn start
 ```
 
-A aplicação estará disponível em **http://localhost:3000**
-
-## 📦 **Build para produção**
-
-A aplicação estará em dev **http://localhost:5173**
-
-Para gerar os arquivos otimizados para produção, use o comando:
-
-```bash
-npm run build
-# ou
-yarn build
-```
-
-Os arquivos serão gerados na pasta `build/` e podem ser servidos por um servidor web.
+A aplicação estará disponível em **http://localhost:5173**
 
 ## 🛠 **Tecnologias utilizadas**
 
